@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLKHO", "QLKHO\QLKHO.csproj", "{A16322BA-2543-4C39-A5D9-51984115EA50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KHO", "KHO\KHO.csproj", "{D85D3BAE-1B72-4F3C-B01C-154EA900230D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A16322BA-2543-4C39-A5D9-51984115EA50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A16322BA-2543-4C39-A5D9-51984115EA50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A16322BA-2543-4C39-A5D9-51984115EA50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A16322BA-2543-4C39-A5D9-51984115EA50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D85D3BAE-1B72-4F3C-B01C-154EA900230D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D85D3BAE-1B72-4F3C-B01C-154EA900230D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D85D3BAE-1B72-4F3C-B01C-154EA900230D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D85D3BAE-1B72-4F3C-B01C-154EA900230D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EEA4979-5BAF-42C0-B248-FFFD1664DAED}
+	EndGlobalSection
+EndGlobal

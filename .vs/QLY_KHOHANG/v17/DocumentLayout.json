@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0110\u1ED3 \u00E1n 2\\QLY_KHOHANG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D85D3BAE-1B72-4F3C-B01C-154EA900230D}|KHO\\KHO.csproj|d:\\\u0111\u1ED3 \u00E1n 2\\qly_khohang\\kho\\frmhanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85D3BAE-1B72-4F3C-B01C-154EA900230D}|KHO\\KHO.csproj|solutionrelative:kho\\frmhanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85D3BAE-1B72-4F3C-B01C-154EA900230D}|KHO\\KHO.csproj|D:\\\u0110\u1ED3 \u00E1n 2\\QLY_KHOHANG\\kho\\frmhanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D85D3BAE-1B72-4F3C-B01C-154EA900230D}|KHO\\KHO.csproj|solutionrelative:kho\\frmhanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85D3BAE-1B72-4F3C-B01C-154EA900230D}|KHO\\KHO.csproj|D:\\\u0110\u1ED3 \u00E1n 2\\QLY_KHOHANG\\kho\\frmchonhanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D85D3BAE-1B72-4F3C-B01C-154EA900230D}|KHO\\KHO.csproj|solutionrelative:kho\\frmchonhanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85D3BAE-1B72-4F3C-B01C-154EA900230D}|KHO\\KHO.csproj|D:\\\u0110\u1ED3 \u00E1n 2\\QLY_KHOHANG\\kho\\frmchonhanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85D3BAE-1B72-4F3C-B01C-154EA900230D}|KHO\\KHO.csproj|solutionrelative:kho\\frmchonhanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85D3BAE-1B72-4F3C-B01C-154EA900230D}|KHO\\KHO.csproj|D:\\\u0110\u1ED3 \u00E1n 2\\QLY_KHOHANG\\kho\\frmphieuxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85D3BAE-1B72-4F3C-B01C-154EA900230D}|KHO\\KHO.csproj|solutionrelative:kho\\frmphieuxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmHangHoa.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n 2\\QLY_KHOHANG\\KHO\\FrmHangHoa.cs",
+              "RelativeDocumentMoniker": "KHO\\FrmHangHoa.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n 2\\QLY_KHOHANG\\KHO\\FrmHangHoa.cs",
+              "RelativeToolTip": "KHO\\FrmHangHoa.cs",
+              "ViewState": "AQIAAA4BAAAAAAAAAAAiwCABAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T12:09:22.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmHangHoa.cs [Design]",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n 2\\QLY_KHOHANG\\KHO\\FrmHangHoa.cs",
+              "RelativeDocumentMoniker": "KHO\\FrmHangHoa.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n 2\\QLY_KHOHANG\\KHO\\FrmHangHoa.cs [Design]",
+              "RelativeToolTip": "KHO\\FrmHangHoa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T10:34:09.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmChonHangHoa.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n 2\\QLY_KHOHANG\\KHO\\FrmChonHangHoa.cs",
+              "RelativeDocumentMoniker": "KHO\\FrmChonHangHoa.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n 2\\QLY_KHOHANG\\KHO\\FrmChonHangHoa.cs",
+              "RelativeToolTip": "KHO\\FrmChonHangHoa.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAnwDMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T10:20:44.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmChonHangHoa.cs [Design]",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n 2\\QLY_KHOHANG\\KHO\\FrmChonHangHoa.cs",
+              "RelativeDocumentMoniker": "KHO\\FrmChonHangHoa.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n 2\\QLY_KHOHANG\\KHO\\FrmChonHangHoa.cs [Design]",
+              "RelativeToolTip": "KHO\\FrmChonHangHoa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T10:20:41.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmPhieuXuat.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n 2\\QLY_KHOHANG\\KHO\\FrmPhieuXuat.cs",
+              "RelativeDocumentMoniker": "KHO\\FrmPhieuXuat.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n 2\\QLY_KHOHANG\\KHO\\FrmPhieuXuat.cs",
+              "RelativeToolTip": "KHO\\FrmPhieuXuat.cs",
+              "ViewState": "AQIAAEwBAAAAAAAAAAAwwFEBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T10:11:36.401Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

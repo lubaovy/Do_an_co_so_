@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="8f4f3a4652024082a7b3bf1913940377" Name="Diagram1" ZoomLevel="85">
+        <EntityTypeShape EntityType="KHOHANG.BaoCaoTonKho" Width="1.5" PointX="5.25" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="KHOHANG.DVT" Width="1.5" PointX="0.75" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="KHOHANG.KhachHang" Width="1.5" PointX="8.25" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="KHOHANG.Quyen" Width="1.5" PointX="3" PointY="7.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="KHOHANG.User" Width="1.5" PointX="0.75" PointY="7.5" IsExpanded="true" />
+        <AssociationConnector Association="KHOHANG.FK_Quyen_Users" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="KHOHANG.HangHoa" Width="1.5" PointX="3" PointY="2" />
+        <AssociationConnector Association="KHOHANG.FK_BaoCaoTonKho_HangHoa" />
+        <AssociationConnector Association="KHOHANG.FK_HangHoa_DVT" />
+        <EntityTypeShape EntityType="KHOHANG.NCC" Width="1.5" PointX="0.75" PointY="1.75" />
+        <AssociationConnector Association="KHOHANG.FK_HangHoa_NCC" />
+        <EntityTypeShape EntityType="KHOHANG.ChiTietPhieuNhap" Width="1.5" PointX="5.25" PointY="0.75" />
+        <AssociationConnector Association="KHOHANG.FK_ChiTietPhieuNhap_HangHoa" />
+        <EntityTypeShape EntityType="KHOHANG.PhieuNhap" Width="1.5" PointX="7.375" PointY="4.875" />
+        <AssociationConnector Association="KHOHANG.FK_ChiTietPhieuNhap_PhieuNhap" />
+        <EntityTypeShape EntityType="KHOHANG.HoaDon" Width="1.5" PointX="12.75" PointY="6.375" />
+        <EntityTypeShape EntityType="KHOHANG.PhieuXuat" Width="1.5" PointX="10.5" PointY="4.125" />
+        <AssociationConnector Association="KHOHANG.FK_HoaDon_PhieuXuat1" />
+        <AssociationConnector Association="KHOHANG.FK_PhieuXuat_KhachHang" />
+        <AssociationConnector Association="KHOHANG.FK_PhieuXuat_Users" />
+        <EntityTypeShape EntityType="KHOHANG.ChiTietPhieuXuat" Width="1.5" PointX="12.75" PointY="2.125" />
+        <AssociationConnector Association="KHOHANG.FK_ChiTietPhieuXuat_HangHoa" />
+        <AssociationConnector Association="KHOHANG.FK_ChiTietPhieuXuat_PhieuXuat" />
+        </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
